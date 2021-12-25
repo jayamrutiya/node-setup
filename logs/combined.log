@@ -1,0 +1,192 @@
+2021-12-25 15:31:32 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 15:31:32 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 15:41:18 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 15:41:18 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 15:41:58 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 15:41:58 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:24:16 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:24:16 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:24:16 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:26:44 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:26:44 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:26:44 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\Jay\Stock\stock-api\node_modules\.prisma\client\index.js:3:11)
+    at new DatabaseService (D:\Jay\Stock\stock-api\src\config\db.ts:8:31)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:58:14)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at childRequests.reduce.constructorInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:27:23)
+2021-12-25 16:33:35 error: uncaughtException: Cannot read property 'getLogger' of undefined
+TypeError: Cannot read property 'getLogger' of undefined
+    at new TestService (D:\Jay\Stock\stock-api\src\services\TestService.ts:17:25)
+    at createInstanceWithInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:67:17)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:55:16)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at resolve (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:236:10)
+2021-12-25 16:33:35 error: uncaughtException: Cannot read property 'getLogger' of undefined
+TypeError: Cannot read property 'getLogger' of undefined
+    at new TestService (D:\Jay\Stock\stock-api\src\services\TestService.ts:17:25)
+    at createInstanceWithInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:67:17)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:55:16)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at resolve (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:236:10)
+2021-12-25 16:33:35 info: Creating: TestRepository
+2021-12-25 16:33:35 error: uncaughtException: Cannot read property 'getLogger' of undefined
+TypeError: Cannot read property 'getLogger' of undefined
+    at new TestService (D:\Jay\Stock\stock-api\src\services\TestService.ts:17:25)
+    at createInstanceWithInjections (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:67:17)
+    at _createInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:55:16)
+    at resolveInstance (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\instantiation.ts:145:18)
+    at _getResolvedFromBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:77:31)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:111:18
+    at _resolveInScope (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:100:12)
+    at _resolveBinding (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:110:10)
+    at D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:41:14
+    at resolve (D:\Jay\Stock\stock-api\node_modules\inversify\src\resolution\resolver.ts:236:10)
+2021-12-25 16:36:03 info: Creating : TestController
+2021-12-25 16:36:03 info: Creating: TestService
+2021-12-25 16:36:03 info: Creating: TestRepository
+2021-12-25 16:36:03 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:36:03 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:43:30 info: Creating: TestController
+2021-12-25 16:43:30 info: Creating: TestService
+2021-12-25 16:43:30 info: Creating: TestRepository
+2021-12-25 16:43:30 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:43:30 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:45:36 info: Creating: TestController
+2021-12-25 16:45:36 info: Creating: TestService
+2021-12-25 16:45:36 info: Creating: TestRepository
+2021-12-25 16:45:36 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:45:36 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:46:03 info: Creating: TestController
+2021-12-25 16:46:03 info: Creating: TestService
+2021-12-25 16:46:03 info: Creating: TestRepository
+2021-12-25 16:46:03 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:46:03 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:46:19 info: Creating: TestController
+2021-12-25 16:46:19 info: Creating: TestService
+2021-12-25 16:46:19 info: Creating: TestRepository
+2021-12-25 16:46:19 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:46:19 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:46:52 info: Creating: TestController
+2021-12-25 16:46:52 info: Creating: TestService
+2021-12-25 16:46:52 info: Creating: TestRepository
+2021-12-25 16:46:52 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:46:52 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:47:09 info: Creating: TestController
+2021-12-25 16:47:09 info: Creating: TestService
+2021-12-25 16:47:09 info: Creating: TestRepository
+2021-12-25 16:47:09 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:47:09 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:47:20 info: Creating: TestController
+2021-12-25 16:47:20 info: Creating: TestService
+2021-12-25 16:47:20 info: Creating: TestRepository
+2021-12-25 16:47:20 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:47:20 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:47:59 info: Creating: TestController
+2021-12-25 16:47:59 info: Creating: TestService
+2021-12-25 16:47:59 info: Creating: TestRepository
+2021-12-25 16:47:59 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:47:59 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:48:13 info: ::1 - - [25/Dec/2021:11:18:13 +0000] "POST /api/v1.0/test HTTP/1.1" 404 153 "-" "PostmanRuntime/7.28.4"
+2021-12-25 16:48:52 info: Creating: TestController
+2021-12-25 16:48:52 info: Creating: TestService
+2021-12-25 16:48:52 info: Creating: TestRepository
+2021-12-25 16:48:52 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:48:52 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:48:55 info: ::1 - - [25/Dec/2021:11:18:55 +0000] "POST /api/v1.0/test HTTP/1.1" 400 160 "-" "PostmanRuntime/7.28.4"
+2021-12-25 16:49:14 info: ::1 - - [25/Dec/2021:11:19:14 +0000] "POST /api/v1.0/test HTTP/1.1" 200 95 "-" "PostmanRuntime/7.28.4"
+2021-12-25 16:57:47 info: Creating: TestController
+2021-12-25 16:57:47 info: Creating: TestService
+2021-12-25 16:57:47 info: Creating: TestRepository
+2021-12-25 16:57:47 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:57:47 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 16:57:52 info: ::1 - - [25/Dec/2021:11:27:52 +0000] "POST /api/v1.0/test HTTP/1.1" 200 95 "-" "PostmanRuntime/7.28.4"
+2021-12-25 16:59:01 info: Creating: TestController
+2021-12-25 16:59:01 info: Creating: TestService
+2021-12-25 16:59:01 info: Creating: TestRepository
+2021-12-25 16:59:01 info: ⚡️[server]: Server is running at http://localhost:3000
+2021-12-25 16:59:01 info: ⚡️[server]: API ROOT: http://localhost:3000/api/v1.0
+2021-12-25 17:02:08 info: ::1 - - [25/Dec/2021:11:32:08 +0000] "POST /api/v1.0/test HTTP/1.1" 200 95 "-" "PostmanRuntime/7.28.4"
